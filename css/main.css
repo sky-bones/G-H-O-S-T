@@ -13,6 +13,7 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
+	background-color: black;
 
 }
 
@@ -23,4 +24,44 @@ html {
 img {
 	width: 100%;
 	display: block;
+}
+
+h1 {
+	letter-spacing: 5px;
+	margin: 30px;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+
+.icon-ghost {
+	font-size: 30em;
+	line-height: 400px;
+	margin: 20px;
+	text-align: center;
+	display: block;
+}
+
+.icon-eye {
+	font-size: 30em;
+	line-height: 0;
+	margin: 20px;
+	text-align: center;
+	display: block;
+}
+
+
+.icon-knives {
+	font-size: 30em;
+	line-height: 300px;
+	margin: 20px;
+	text-align: center;
+	display: block;
+}
+
+.poem {
+	margin: 40px 100px;
+
 }
