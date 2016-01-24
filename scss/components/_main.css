@@ -35,12 +35,16 @@ p {
 }
 
 
-.icon-ghost {
+.icon-halok {
 	font-size: 30em;
 	line-height: 400px;
 	margin: 20px;
 	text-align: center;
 	display: block;
+}
+
+.icon-halo {
+	font-size: 20em;
 }
 
 .icon-eye {
@@ -62,5 +66,4 @@ p {
 
 .poem {
 	margin: 40px 100px;
-
 }
